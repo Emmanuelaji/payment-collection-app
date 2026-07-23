@@ -27,5 +27,6 @@ A modern, secure payment recording system for businesses that accept offline pay
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone git remote add origin https://github.com/Emmanuelaji/payment-collection-app.git
+
    cd payment-collection-app
